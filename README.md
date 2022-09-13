@@ -1,7 +1,7 @@
 <h1 align="center">iDexign</h1>
 <h4 align="center">| Version info: Beta | Developed By: Ata Yigit Ustundag |</h4>
 
-<img src="">
+<img src="Screenshot (1880).png">
 
 <p align="center">iDexign is a free open source logo designing tool on Windows OS. You can choose your own photos on your computer and add text using iDexign to create the most perfect logos for yourself.</p>
 
