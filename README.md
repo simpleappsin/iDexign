@@ -11,14 +11,14 @@
 
 <h2 align="center">Features</h2>
 <p align="center">
-  * Drag & Drop.
+  Drag & Drop.
 </p>
 <p align="center">
-  * Use your own pictures.
+  Use your own pictures.
 </p>
 <p align="center">
-  * Save logo.
+  Save logo.
 </p>
 <p align="center">
-  * Design logo
+  Design logo
 </p>
