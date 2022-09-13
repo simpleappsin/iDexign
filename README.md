@@ -3,7 +3,7 @@
 <p align="center">iDexign is a free open source logo designing tool on Windows OS. You can choose your own photos on your computer and add text using iDexign to create the most perfect logos for yourself.</p>
 <img src="Screenshot (1880).png">
 
-<h2 align="center">Why iDexign</h2>
+<h2 align="center">Why iDexign?</h2>
 <p align="center">iDexign is free and will be updated. Your feedbacks are very important to me to improve this software.</p>
 
 <h2 align="center">How long did it take?</h2>
