@@ -1,0 +1,11 @@
+C:\Users\ustun\source\repos\iDexign\iDexign\bin\Debug\iDexign.exe.config
+C:\Users\ustun\source\repos\iDexign\iDexign\bin\Debug\iDexign.exe
+C:\Users\ustun\source\repos\iDexign\iDexign\bin\Debug\iDexign.pdb
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.csproj.AssemblyReference.cache
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.Form1.resources
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.Properties.Resources.resources
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.csproj.GenerateResource.cache
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.csproj.CoreCompileInputs.cache
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.exe
+C:\Users\ustun\source\repos\iDexign\iDexign\obj\Debug\iDexign.pdb
+C:\Users\ustun\source\repos\iDexign\iDexign\bin\Debug\Control.Draggable.dll
