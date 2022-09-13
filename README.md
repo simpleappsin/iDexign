@@ -8,3 +8,17 @@
 
 <h2 align="center">How long did it take?</h2>
 <p align="center">It took me 2 days to develop this software.</p>
+
+<h2 align="center">Features</h2>
+<p align="center">
+  * Drag & Drop.
+</p>
+<p align="center">
+  * Use your own pictures.
+</p>
+<p align="center">
+  * Save logo.
+</p>
+<p align="center">
+  * Design logo
+</p>
